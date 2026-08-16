@@ -1,2 +1,27 @@
-# ARC-Raiders-Quick-Move-Snap-Hook
-ARC Inventory Mover is a lightweight automation tool for ARC Raiders that quickly moves items from the Quick Use slot to the Safe Pocket using a customizable hotkey. Configure the hotkey, action delay, and inventory slot positions to make item management faster and easier.
+# ARC Inventory Mover
+
+A lightweight automation tool for **ARC Raiders** that moves items from the **Quick Use Slot** to the **Safe Pocket** with a customizable hotkey.
+
+## Features
+
+* Custom hotkey
+* Adjustable delay
+* Custom inventory slot positions
+* One-click item movement
+* Enable/disable automation
+
+## Installation
+
+```bash
+pip install customtkinter pynput
+python main.py
+```
+
+## Usage
+
+1. Set your hotkey.
+2. Configure the slot positions.
+3. Click **Save Settings**.
+4. Press the hotkey to move the item.
+
+> Third-party tool. Not affiliated with ARC Raiders.
